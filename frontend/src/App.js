@@ -16,7 +16,7 @@ const RealtimeMap = ({
         container: mapContainerRef.current,
         style:
           "https://maps.geops.io/styles/travic_v2/style.json?key=" + apiKey,
-        center: [7.4707, 46.95],
+        center: [-74.0060, 40.7128],
         zoom: 12,
       });
 
